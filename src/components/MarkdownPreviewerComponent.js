@@ -1,6 +1,8 @@
 import React from "react";
 import marked from "marked";
 
+// Based on code written by Libor Marko
+
 // Allows line breaks with the return button
 marked.setOptions({
     breaks: true

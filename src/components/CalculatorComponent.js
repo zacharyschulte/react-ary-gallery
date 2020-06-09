@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import CalculatorResultComponent from "./CalculatorResultComponent";
 import CalculatorKeyPadComponent from "./CalculatorKeyPadComponent";
 
+// Based on a Component written by Nitin Patel
 class CalculatorComponent extends Component {
     constructor() {
         super();

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 
+// Based on code written by Abdul Basit
 export default class RandomQuoteComponent extends Component {
     constructor(props) {
         super(props)

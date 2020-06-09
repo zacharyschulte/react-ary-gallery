@@ -329,7 +329,7 @@ input:checked+.slider:before {
 }
 
 [type="range"]::-webkit-slider-thumb {
-  margin-top: calc(-1 * (var(--thumb-height, "1.15em") - var(--track-height, "0.75em") + 2*var(--track-border-width, 1px)) / 2);
+
   box-sizing: border-box;
   border: none;
   width: var(--thumb-width, "1.15em");
